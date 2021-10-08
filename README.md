@@ -1,0 +1,2 @@
+# pupu
+Strictly pure languages
